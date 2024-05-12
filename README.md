@@ -4,8 +4,9 @@ This application was built as a small practice project using pure HTML/CSS and J
 
 A user can simply type in a set location (e.g. Sydney)
 
-![MainPage](https://github.com/Franco-Diaz-Licham/WheatherApp/assets/138960498/31c83c56-599a-437c-9f93-6d2a5ab2cc3a)
+![Request](https://github.com/Franco-Diaz-Licham/WeatherApp/assets/138960498/aa0bf726-5dfa-4578-8ba2-01e3be3b0acb)
 
 The application will for weather results. 
 
-![Result](https://github.com/Franco-Diaz-Licham/WheatherApp/assets/138960498/20764668-707d-4ea2-8f5c-9124cf3f7e0c)
+![Result](https://github.com/Franco-Diaz-Licham/WeatherApp/assets/138960498/5f424a53-7c59-4802-a440-bfbf26af6798)
+
