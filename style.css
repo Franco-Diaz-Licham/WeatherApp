@@ -26,6 +26,20 @@ body{
     transition: 0.6s ease-out;
 }
 
+.main-container{
+    max-width: 1000px;
+}
+
+.heading{
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
 .search-box{
     width: 100%;
     height: min-content;
