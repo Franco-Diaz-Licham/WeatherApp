@@ -14,7 +14,7 @@ const wind = document.querySelector('.weather-details .wind span');
 // fetch data
 search.addEventListener('click', () =>{
 
-    const APIKey = '4531d567bcb9ca98cf6ff3d1228c9a0f';
+    const APIKey = '<token>';
     const city = document.querySelector('.search-box input').value;
     
     if(city === ''){
