@@ -4,11 +4,8 @@ It requests weather information from [openweathermap](https://openweathermap.org
 This application was built as a small practice project using pure HTML, CSS and JS. Here is an example: 
 
 # Overview
-A user can simply type in a set location (e.g. Sydney)
+A user can simply type in a set location (e.g. Sydney) a the application will show the weather results. 
 
-![Request](https://github.com/Franco-Diaz-Licham/WeatherApp/assets/138960498/aa0bf726-5dfa-4578-8ba2-01e3be3b0acb)
-
-The application will for weather results. 
-
-![Result](https://github.com/Franco-Diaz-Licham/WeatherApp/assets/138960498/5f424a53-7c59-4802-a440-bfbf26af6798)
-
+<p align="center">
+  <img src="https://github.com/Franco-Diaz-Licham/WeatherApp/assets/138960498/250980cb-347d-4960-b662-321c6a8b184e" />
+</p>
