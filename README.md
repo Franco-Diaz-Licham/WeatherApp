@@ -7,5 +7,6 @@ This application was built as a small practice project using pure HTML, CSS and 
 A user can simply type in a set location (e.g. Sydney) a the application will show the weather results. 
 
 <p align="center">
-  <img src="https://github.com/Franco-Diaz-Licham/WeatherApp/assets/138960498/250980cb-347d-4960-b662-321c6a8b184e" />
+  <img src="https://github.com/Franco-Diaz-Licham/WeatherApp/assets/138960498/e1378bf8-bb56-43a1-a919-21be1fb214cc" />
 </p>
+
